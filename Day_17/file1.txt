@@ -22,3 +22,4 @@ git checkout new_branch
 git merge new_branch
 
 
+git push origin new_branch : to add new brach everytime
