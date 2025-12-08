@@ -9,3 +9,11 @@ git add .             :[all files inside this folder are added]
 git commit -m "meaning full messages"
 
 # git log   :show all the commits 
+
+----------------today-----------------------
+https://www.toptal.com/developers/gitignore/api/python
+
+git status  : to 
+
+git branch 
+
