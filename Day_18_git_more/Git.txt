@@ -1,0 +1,38 @@
+ GIT : Version Control System
+
+- track the changes in the files
+- provide seperate workspace for multiple user
+- logs are created
+
+# Github: application that implements GIT
+
+# git initialization - empty git repository is crated
+git init 
+
+# files add to git
+git add file_name     :[only single file is added]
+git add .             :[all files inside this folder are added]
+
+# commit to git 
+git commit -m "meaning full messages"
+
+# git log   :show all the commits 
+
+# git status
+
+# git branch -M main    rename the master branch to main
+
+# git branch  : list out all the existing branches
+
+# git branch barnch_name  : to create new branch
+
+# git checkout branch_name    : to switch branch
+
+# git merge branch_name    : to merge the branches
+
+# git remote add origin <git_repo_url>    : connect remote repo to local repo
+
+# git push -u origin main  : push branch to github [for first push], local to remote
+# git push
+
+# git pull     : git file/u
