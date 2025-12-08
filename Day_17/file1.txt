@@ -35,3 +35,5 @@ git push -u origin main : to push the main branch to website for the first push
 
 git push: for furthr push 
 
+git push origin new_branch : to push new_brach everytime
+
