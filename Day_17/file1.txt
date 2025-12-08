@@ -26,3 +26,8 @@ git branch -M main : to rename the branch to main
 git remote add origin <git repo url> : connect remote reop to local repo 
 
 git remote --v : to see remote repo
+
+git push -u origin main : to push the main branch to website for the first push 
+
+git push: for furthr push 
+
