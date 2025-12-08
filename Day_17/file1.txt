@@ -23,6 +23,10 @@ git merge new_branch
 
 git branch -M main : to rename the branch to main
 
+git push origin new_branch : to add new brach everytime
+
+
+
 git remote add origin <git repo url> : connect remote reop to local repo 
 
 git remote --v : to see remote repo
