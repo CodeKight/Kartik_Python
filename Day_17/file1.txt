@@ -1,0 +1,11 @@
+# git initialization - empty git repository is crated
+git init 
+
+# files add to git
+git add file_name     :[only single file is added]
+git add .             :[all files inside this folder are added]
+
+# commit to git 
+git commit -m "meaning full messages"
+
+# git log   :show all the commits 

@@ -1,0 +1,23 @@
+Programming Language:
+	used to interact with computer
+- type of programming language: 
+ Compiled PL: C, C++, GO
+ Interpreted PL: Python, Rust, JavaScript
+
+Python: 
+- easy to learn, solves complex code in less time
+- multi purpose: desktop, mobile, software dve, DS, DA, Account, Maths, Automation, Hacking, Testing, AI/ML
+- high level
+- cross platform: moble, win, mac
+- rich framework, libraries
+
+# keywords: built-in words, with specific task
+# Statements: lines / block of code
+	-2 types of statement: single lined statement, multi lined statement
+# identifiers: user defined words(veriable name, function name, class name)
+ Convension of of identifier:
+- cant start using digits
+- Keywords cant be used to define variable
+- special characters cant be used except _
+- space can not included
+- ABC, abc, Abc - case sensitive : ASCII code

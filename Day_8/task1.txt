@@ -1,0 +1,14 @@
+1. Write a program that converts a temperature from Celsius to Fahrenheit. Formula: F = (C × 9/5) + 32.
+2.Write a program that asks for the user's age as input (string), converts it to an integer, and calculates what their age will be in 10 years.
+3.Write a program that takes a decimal number as input and prints both the integer part and the decimal part separately.
+4.Create a program that calculates the average of five numbers entered by the user.
+5.Build a simple tip calculator: ask for the bill amount and tip percentage, then calculate the tip and total.
+6.Use //= to repeatedly divide a number by 2 until it becomes 1. How many divisions did it take? Print it out
+7.Create a program that checks if a number is between 1 and 100
+8.Write a program that checks if a user's input contains the word "Python".
+9.Ask for a sentence and check if it contains any vowels (a, e, i, o, u).
+10.Write a program that determines if a triangle is valid (sum of any two sides must be greater than the third side).
+11. Build a mini-quiz: ask 3 questions and count how many correct answers the user gets.
+12. Calculate the sum of numbers from 1 to n (n is the user input)
+13. Write a program that keeps asking for a password until the correct one is entered.
+14. Write a program that counts how many vowels are in a string.
