@@ -13,7 +13,12 @@ git commit -m "meaning full messages"
 ----------------today-----------------------
 https://www.toptal.com/developers/gitignore/api/python
 
-git status  : to 
+git status  
 
-git branch 
+git branch new_branch
+
+git checkout new_branch
+
+git merge new_branch
+
 
