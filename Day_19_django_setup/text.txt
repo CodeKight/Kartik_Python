@@ -19,16 +19,3 @@ source django_env/Scripts/activate (worked)
 
 #4.  Install django: 
 pip install django
-
-
-#5. To make python project 
-
-django-admin startproject my_project . 
-django-admin startproject my_project   (without dot)
-
-#6. run the project
-python manage.py runserver
-
-
-#to do 
-add git ignore file, git initialize, github repo, send it to viber 

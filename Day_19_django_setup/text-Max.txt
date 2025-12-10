@@ -1,0 +1,34 @@
+#1. Install evironment:  pip install virtualenv
+
+#2. create virtual envv
+
+
+python -m venv env_name(eg. venv or env or anything )  : #env is the name of virtual env, any other name also can be anything
+or, 
+
+virtualenv env  : #env is userdefined and be named anything 
+
+#3. Activate virtual env
+django_env\scripts\activate (win)
+source env/Scripts/activate (mac)
+source env/bin/activate (linux)
+ 
+
+source django_env/Scripts/activate (worked)
+
+
+#4.  Install django: 
+pip install django
+
+
+#5. To make python project 
+
+django-admin startproject my_project . 
+django-admin startproject my_project   (without dot)
+
+#6. run the project
+python manage.py runserver
+
+
+#to do 
+add git ignore file, git initialize, github repo, send it to viber 
